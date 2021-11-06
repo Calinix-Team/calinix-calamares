@@ -1,0 +1,2 @@
+# CalinixOS Calamares configuration
+

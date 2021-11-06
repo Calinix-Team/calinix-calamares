@@ -1,0 +1,41 @@
+- name: "Accessories"
+  description: "Accessories"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - cheese
+    - font-manager-git
+    - galculator
+    - flameshot-git
+    - mediainfo-gui
+    - mcomix
+    - nitrogen
+    - nomacs
+    - pdfarranger
+    - plank
+    - screenkey-git
+    - vim-plugins
+    - variety
+- name: "Password Manager"
+  description: "Password managers"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - bitwarden-bin
+    - enpass-bin
+    - keepassxc
+    - lastpass
+- name: "Privacy"
+  description: "Applications that ensure your privacy"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: true
+  packages:
+    - tor-browser
+    - tor
+    - privoxy
