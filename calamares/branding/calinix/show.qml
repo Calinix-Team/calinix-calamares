@@ -117,20 +117,6 @@ Presentation
         anchors.fill: parent
         anchors.verticalCenterOffset: 0
         Image {
-            id: background8
-            source: "calamares-7.png"
-            width: parent.width; height: parent.height
-            verticalAlignment: Image.AlignTop
-            fillMode: Image.Stretch
-            anchors.fill: parent
-        }
-
-    }
-
-    Slide {
-        anchors.fill: parent
-        anchors.verticalCenterOffset: 0
-        Image {
             id: background9
             source: "calamares-8.png"
             width: parent.width; height: parent.height
